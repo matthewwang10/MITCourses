@@ -31,5 +31,5 @@ public class FooCorporation {
 		corp.PayCalculator(7.5, 37);
 		corp.PayCalculator(8.2, 47);
 		corp.PayCalculator(10, 73);
-	}
+	} 
 }
